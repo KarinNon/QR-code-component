@@ -28,7 +28,7 @@ body {
 .image-box {
     width: 315px;
     height: 315px;
-    background-image: url("images/image-qr-code.png");
+    background-image: url("image-qr-code.png");
     background-size: cover;
     border-radius: 10px;
     margin-inline: auto;
